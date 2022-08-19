@@ -71,7 +71,6 @@ function gebeAllesAlsTabelleAus() {
     }
     document.write('</table>');
 }
-
 gebeAllesAlsTabelleAus();
 
 
